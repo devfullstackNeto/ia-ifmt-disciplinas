@@ -20,14 +20,14 @@ Repositório oficial contendo materiais didáticos, códigos desenvolvidos em sa
 ### 🧠 1º Semestre
 
 #### 📌 Programação
-👉 [Acessar Material](1-semestre/programacao)
+👉 [Acessar Material](programacao)
 
 ---
 
 ### ⚙️ 2º Semestre
 
 #### 📌 Estruturas de Dados e Algoritmos
-👉 [Acessar Material](2-semestre/estruturas-dados-algoritmos)
+👉 [Acessar Material](estruturas-dados-algoritmos)
 
 ---
 
