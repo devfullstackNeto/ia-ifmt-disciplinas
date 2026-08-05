@@ -201,7 +201,7 @@ Conteúdos:
 | 17 | 18/11/2026 | Testes, depuração e leitura de traceback |
 | 18 | 25/11/2026 | Módulos, pacotes, linha de comando e Avaliação A2 |
 | 19 | 02/12/2026 | Integração, documentação e finalização do PPI |
-| 20 | 09/12/2026 | Apresentação do PPI, revisão e encerramento |
+| 20 | 04/12/2026 | Apresentação do PPI, revisão e encerramento |
 
 > As datas poderão ser ajustadas em razão do calendário acadêmico, feriados, recessos ou orientações institucionais. Toda alteração será comunicada previamente pelo Moodle.
 
@@ -216,7 +216,7 @@ Conteúdos:
 | Checkpoint A3.2 | 14/10/2026 | Funções, arquivos, bibliotecas e tratamento de exceções |
 | A2 — Avaliação prática | 25/11/2026 | Implementação individual de uma solução em Python |
 | Fechamento da A3 | 02/12/2026 | Consolidação dos exercícios avaliativos entregues pelo Moodle |
-| PPI — Apresentação final | 09/12/2026 | Apresentação e demonstração da solução computacional desenvolvida em grupo |
+| PPI — Apresentação final | 04/12/2026 | Apresentação e demonstração da solução computacional desenvolvida em grupo |
 
 ---
 
