@@ -1,38 +1,20 @@
-# 📘 Programação – 1º Semestre IA
+# Programação — 1º Semestre  
+## Tecnologia em Inteligência Artificial e Ciência de Dados
+
+Repositório oficial da disciplina de **Programação**, destinado à organização dos códigos, exercícios, avaliações, materiais de apoio e projetos desenvolvidos ao longo do semestre.
 
 ---
 
-## 🎯 Objetivo
+## Visão geral
 
-Desenvolver raciocínio lógico e fundamentos da programação.
+A disciplina apresenta os fundamentos da programação de computadores utilizando a linguagem **Python**, com foco na construção do raciocínio lógico, resolução de problemas e desenvolvimento progressivo de aplicações.
 
----
+O percurso parte dos conceitos básicos da linguagem e avança até modularização, manipulação de arquivos, tratamento de exceções, testes e introdução à Programação Orientada a Objetos.
 
-## 📂 Estrutura da Disciplina
-
-### 📖 Aulas
-Códigos e exemplos apresentados em sala.
-
----
-
-### 📝 Atividades
-Exercícios práticos e desafios.
-
----
-
-### 📊 Provas
-Avaliações aplicadas durante o semestre.
-
----
-
-### 📚 Materiais de Apoio
-Conteúdos complementares e datasets.
-
----
-
-## 💻 Execução dos Códigos
-
-Recomenda-se utilizar:
-
-✔ Google Colab  
-✔ Ambiente Python local
+```text
+Carga horária: 60 horas
+Encontros: 20 aulas
+Dia das aulas: quarta-feira
+Início: 29/07/2026
+Linguagem principal: Python
+Ambientes: Google Colab e Visual Studio Code
